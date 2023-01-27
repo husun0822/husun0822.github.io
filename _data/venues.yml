@@ -1,6 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ApJ":
+  color: "#FF33E6"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Space W.":
+  color: "#FF33E6"
+
+"AOAS":
+  color: "#3349FF"
+
+"arXiv":
+  color: "#FF4233"
+
+"Front. A & S":
+  color: "#33DAFF"
