@@ -26,6 +26,6 @@ nav_order: 2
     Solar Flare Prediction with LSTM and Polarity Inversion Line Detection.
     </dt>    
     <dd>
-    <em>W.W. Hansen Experimental Physics Lab, Stanford University.</em> [slides](https://husun0822.github.io/assets/pdf/talks/2019-Stanford-Talk.pdf)
+    <em>W.W. Hansen Experimental Physics Lab, Stanford University. </em> <a href="https://husun0822.github.io/assets/pdf/talks/2019-Stanford-Talk.pdf"> slides</a>
     </dd>
 </dl>
