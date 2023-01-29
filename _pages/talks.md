@@ -3,7 +3,6 @@ layout: page
 permalink: /talks/
 title: Talks
 description: talks/posters in reversed chronological order. 
-years: [2023,2022,2021,2020,2019]
 nav: true
 nav_order: 2
 ---
@@ -24,9 +23,9 @@ nav_order: 2
     <em>American Geophysical Union (AGU) Meeting</em>
     </dd>
     <dt>
-    Solar Flare Prediction with LSTM and Polarity Inversion Line Detection. [slides](https://husun0822.github.io/assets/pdf/talks/2019-Stanford-Talk.pdf)
+    Solar Flare Prediction with LSTM and Polarity Inversion Line Detection.
     </dt>    
     <dd>
-    <em>W.W. Hansen Experimental Physics Lab, Stanford University</em> 
+    <em>W.W. Hansen Experimental Physics Lab, Stanford University.</em> [slides](https://husun0822.github.io/assets/pdf/talks/2019-Stanford-Talk.pdf)
     </dd>
 </dl>
