@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Hu Sun. I am a 3rd year Ph.D. candidate in Statistics at the University of Michigan, Ann Arbor. I am very fortunate to be supervised by Prof. [Yang Chen](https://yangchenfunstatistics.github.io/yangchen.github.io//). My research interests include: matrix & tensor data model, spatio-temproal process and applications in astrophysics and geophysics data. Outside of academic life, I love Karaoke, playing board/video games and 8-ball pool.
