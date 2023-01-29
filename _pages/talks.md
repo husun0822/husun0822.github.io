@@ -24,7 +24,7 @@ nav_order: 2
     <em>American Geophysical Union (AGU) Meeting</em>
     </dd>
     <dt>
-    Solar Flare Prediction with LSTM and Polarity Inversion Line Detection. [slides]({{ site.baseurl }}/assets/pdf/talks/2019-Stanford-Talk.pdf)
+    Solar Flare Prediction with LSTM and Polarity Inversion Line Detection. [slides](https://husun0822.github.io/assets/pdf/talks/2019-Stanford-Talk.pdf)
     </dt>    
     <dd>
     <em>W.W. Hansen Experimental Physics Lab, Stanford University</em> 
