@@ -11,7 +11,7 @@ nav_order: 2
 <h6>Tensor Gaussian Process with Contraction for Applications to Solar Flare Imaging Analysis </h6>
 
 <ul>
-    <li> Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). March, 2023. <a href="https://husun0822.github.io/assets/pdf/talks/2023-MSSISS-Slides.pdf"> [slides]</li>
+    <li>Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). March, 2023. <a href="https://husun0822.github.io/assets/pdf/talks/2023-MSSISS-Slides.pdf"> [slides]</a></li>
     <li>American Geophysical Union (AGU) Meeting. December, 2022. <a href="https://husun0822.github.io/assets/pdf/talks/2022-AGU-Slides.pdf"> [slides]</a></li>
 </ul>
 
