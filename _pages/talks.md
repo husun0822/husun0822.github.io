@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <hr>
-<h6>Tensor Gaussian Process with Contraction for Applications to Solar Flare Imaging Analysis </h6>
+<h6>Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis </h6>
 
 <ul>
     <li>Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). March, 2023. <a href="https://husun0822.github.io/assets/pdf/talks/2023-MSSISS-Slides.pdf"> [slides]</a></li>
@@ -18,7 +18,7 @@ nav_order: 2
 
 
 <hr>
-<h6>Matrix Auto-regressive Model With Vector Time-series Covariates </h6>
+<h6>Matrix Auto-regressive Model With Vector Time-series Covariates for Spatio-Temporal Data </h6>
 
 <ul>
     <li>INFORMS Annual Meeting. October, 2022. <a href="https://husun0822.github.io/assets/pdf/talks/2022-INFORMS-Slides.pdf"> [slides]</a></li>
@@ -44,7 +44,7 @@ nav_order: 2
 
 
 <hr>
-<h6>Improving and Interpreting Flare Prediction with Spatial Statistics Analysis of the Magnetic Field Data </h6>
+<h6>Interpretable Solar Flare Prediction with Spatial and Topological Data Analysis </h6>
 
 <ul>
     <li> American Geophysical Union (AGU) Meeting. December, 2021. <a href="https://husun0822.github.io/assets/pdf/talks/2021-AGU-Slides.pdf"> [slides]</a></li>
