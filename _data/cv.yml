@@ -3,25 +3,19 @@
   contents:
     - title: Ph.D. in Statistics (expected)
       institution: University of Michigan, Ann Arbor
-      year: 2024
+      year: 2020-2024
       description:
         - >
-          Research Interest: Tensor Model, Spatio-Temporal Process, Astro-statistics.
+          Research Interest: Tensor Data Model, Spatio-Temporal Statistics, Astro-statistics.
         - >
-          Advisor: Yang Chen
-    - title: M.S. in Statistics
-      institution: University of Michigan, Ann Arbor
-      year: 2020
-      description:
-        - >
-          Awarded Outstanding First-Year Master's Student in 2019.
+          Advisor: <a href="https://yangchenfunstatistics.github.io/yangchen.github.io/">Yang Chen</a>
     
-    - title: B.A. in Economics
-      institution: Xiamen University
-      year: 2018
+    - title: M.S. in Applied Statistics
+      institution: University of Michigan, Ann Arbor
+      year: 2018-2020
       description:
-        - Enrolled in the Wang Yanan Institude for Studies in Economics (<a href="https://wise.xmu.edu.cn/english/">WISE</a>).
-        - Winner of best ungraduate thesis award (2018).
+        - >
+          Awarded Outstanding First-Year Master's Student Award in 2019.
         
     - title: Visiting Student in Economics
       institution: University of Oxford
@@ -30,10 +24,23 @@
         - Awarded Oxford Prospect Program Fellowship.
         - Enrolled in the <a href="https://www.pmb.ox.ac.uk/">Pembroke College</a>.
     
+    - title: B.A. in Economics
+      institution: Xiamen University
+      year: 2014-2018
+      description:
+        - Enrolled in the Wang Yanan Institude for Studies in Economics (<a href="https://wise.xmu.edu.cn/english/">WISE</a>).
+        - Winner of the Best Undergraduate Thesis Award in 2018.
 
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
+    - title: Quantitative Researcher Intern
+      institution: IMC Trading, Chicago
+      year: 2023 Summer
+      description:
+        - >
+          Project: Volatility Signal Forecast Uncertainty Quantification.
+
     - title: Graduate Student Instructor (GSI)
       institution: University of Michigan, Ann Arbor
       year: 2020-2021
@@ -44,11 +51,11 @@
             - 'STATS 503: Statistical Learning II: Multivariate Analysis'
             - 'STATS 426: Introduction to Theoretical Statistics'
             - 'STATS 406: Computational Methods in Statistics and Data Science'
-        - Awarded best GSI team award (with Songkai Xue) for teaching STATS 503.
+        - Awarded the best GSI team award (with Songkai Xue) for teaching STATS 503.
     
     - title: Global Technology Intern
       institution: Bank of America, Beijing
-      year: 2017
+      year: 2017 Summer
       description:
         - >
           Internal information system testing & customer database management.
@@ -70,8 +77,6 @@
       items:
         - 'National Finalist (rank: 19), Chinese National English Speaking Contest'
         - First Place, Chinese National English Speaking Contest, Provincial Final
-
-
 
 - title: Skills
   type: list
