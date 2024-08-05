@@ -1,12 +1,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Statistics (expected)
+    - title: Ph.D. in Statistics
       institution: University of Michigan, Ann Arbor
       year: 2020-2024
       description:
         - >
-          Research Interest: Tensor Data Model, Spatio-Temporal Statistics, Astro-statistics.
+          Research Interest: Tensor Data Analysis, Spatio-Temporal Statistics, Astrostatistics.
         - >
           Advisor: <a href="https://yangchenfunstatistics.github.io/yangchen.github.io/">Yang Chen</a>
     
@@ -37,9 +37,6 @@
     - title: Quantitative Researcher Intern
       institution: IMC Trading, Chicago
       year: 2023 Summer
-      description:
-        - >
-          Project: Volatility Signal Forecast Uncertainty Quantification.
 
     - title: Graduate Student Instructor (GSI)
       institution: University of Michigan, Ann Arbor
